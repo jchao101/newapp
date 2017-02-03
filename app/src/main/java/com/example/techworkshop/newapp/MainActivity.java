@@ -11,3 +11,16 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 }
+    Button button = (Button) findViewById(R.id.button);
+
+button.setOnClickListener(new View.onClickListener() {
+
+@Override
+
+public void onClick(View v) {
+
+        goToSecondActivity();
+
+        }
+
+        });

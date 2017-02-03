@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">new app</string>
+    <string name="hello_world">Hello world! Welcome to my app!</string>
+    <string name="second_page">Welcome to the second page!</string>
+    <string name="Actions_settings">settings</string>
+    <string name="title_activy_second">SecondActivity</string>
 </resources>
